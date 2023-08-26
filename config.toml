@@ -181,7 +181,7 @@ media_prefix = ""
       name = "Raphael"
       thumbnail = "img/host/raphael.png"
       bio = "_"
-      [params.authors.cathal.social]
+      [params.authors.raphael.social]
         #homepage = ""
         #github = ""
         #facebook = ""
