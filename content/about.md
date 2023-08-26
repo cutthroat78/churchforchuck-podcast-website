@@ -1,5 +1,5 @@
 +++
-date = "2023-08-26T21:31:40-01:00"
+date = "2023-08-26T21:31:40+01:00"
 description = 'About "The Church of Chuck" podcast'
 title = "About"
 +++
