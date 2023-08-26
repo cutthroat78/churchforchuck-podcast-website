@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'The Church of Chuck - Podcast'
+title = 'The Church of Chuck'
 theme = "castanet"
 googleAnalytics = ""
 #themesdir = "../.."
