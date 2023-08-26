@@ -4,7 +4,7 @@ title = 'The Church of Chuck'
 theme = "castanet"
 googleAnalytics = ""
 #themesdir = "../.."
-paginate = "9"
+paginate = "3"
 buildFuture = true
 
 [taxonomies]
@@ -75,7 +75,7 @@ buildFuture = true
 googleAnalytics_UA = ""
 mainSections = ["episode"]
 episode_number_style  = "brackets"
-episode_number_prefix = "CWC"
+episode_number_prefix = "E"
 site_theme = "blue"
 # site_layout = "grid"
 site_layout = "row"
