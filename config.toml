@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'The Church of Chuck - Podcast'
 theme = "castanet"
 googleAnalytics = ""
-themesdir = "../.."
+#themesdir = "../.."
 paginate = "9"
 buildFuture = true
 
