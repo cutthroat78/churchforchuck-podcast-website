@@ -149,20 +149,48 @@ media_prefix = ""
     #mastodon = "https://hachyderm.io/@mattstratton"
 
   [params.authors]
-    [params.authors.person]
-      name = ""
-      thumbnail = "img/host/_.png"
-      bio = ""
-      [params.authors.person.social]
-        #homepage = "https://www.mattstratton.io"
-        #github = "mattstratton"
-        #facebook = "matt.stratton"
-        #twitter = "mattstratton"
-        #linkedin = "mattstratton"
-        #pinterest = "mattstratton"
-        #instagram = "instagram"
-        #youtube = "mattstratton"
-        #twitch = "mattstratton"
+    [params.authors.cathal]
+      name = "Cathal"
+      thumbnail = "img/host/cathal.png"
+      bio = "_"
+      [params.authors.cathal.social]
+        #homepage = ""
+        #github = ""
+        #facebook = ""
+        #twitter = ""
+        #linkedin = ""
+        #pinterest = ""
+        #instagram = ""
+        #youtube = ""
+        #twitch = ""
+    [params.authors.andre]
+      name = "Andre"
+      thumbnail = "img/host/andre.png"
+      bio = "_"
+      [params.authors.andre.social]
+        #homepage = ""
+        #github = ""
+        #facebook = ""
+        #twitter = ""
+        #linkedin = ""
+        #pinterest = ""
+        #instagram = ""
+        #youtube = ""
+        #twitch = ""
+    [params.authors.raphael]
+      name = "Raphael"
+      thumbnail = "img/host/raphael.png"
+      bio = "_"
+      [params.authors.cathal.social]
+        #homepage = ""
+        #github = ""
+        #facebook = ""
+        #twitter = ""
+        #linkedin = ""
+        #pinterest = ""
+        #instagram = ""
+        #youtube = ""
+        #twitch = ""
 
     [params.links]
       [params.links.link]
