@@ -1,5 +1,5 @@
 +++
-Title = "Andre"
+Title = "André Costa"
 Type = "host"
 Thumbnail = "img/host/andre.png"
 #Website = ""

@@ -164,7 +164,7 @@ media_prefix = ""
         #youtube = ""
         #twitch = ""
     [params.authors.andre]
-      name = "Andre"
+      name = "André Costa"
       thumbnail = "img/host/andre.png"
       bio = "description"
       [params.authors.andre.social]
@@ -178,7 +178,7 @@ media_prefix = ""
         #youtube = ""
         #twitch = ""
     [params.authors.raphael]
-      name = "Raphael"
+      name = "Raphael Costa"
       thumbnail = "img/host/raphael.png"
       bio = "description"
       [params.authors.raphael.social]
