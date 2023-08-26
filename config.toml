@@ -150,9 +150,9 @@ media_prefix = ""
 
   [params.authors]
     [params.authors.cathal]
-      name = "Cathal"
+      name = "Cathal Moloney"
       thumbnail = "img/host/cathal.png"
-      bio = "_"
+      bio = "description"
       [params.authors.cathal.social]
         #homepage = ""
         #github = ""
@@ -166,7 +166,7 @@ media_prefix = ""
     [params.authors.andre]
       name = "Andre"
       thumbnail = "img/host/andre.png"
-      bio = "_"
+      bio = "description"
       [params.authors.andre.social]
         #homepage = ""
         #github = ""
@@ -180,7 +180,7 @@ media_prefix = ""
     [params.authors.raphael]
       name = "Raphael"
       thumbnail = "img/host/raphael.png"
-      bio = "_"
+      bio = "description"
       [params.authors.raphael.social]
         #homepage = ""
         #github = ""
